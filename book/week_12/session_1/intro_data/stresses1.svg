@@ -1130,11 +1130,11 @@
 			<text x="8.17" y="167.09" class="st9" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>15</text>		</g>
 		<g id="shape260-557" v:mID="260" v:groupContext="shape" transform="translate(99.4627,-21.5098)">
 			<title>Punt A.260</title>
-			<desc>25</desc>
+			<desc>-25</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="14.1732" cy="163.492" width="28.35" height="14.1732"/>
 			<rect x="0" y="156.405" width="28.3465" height="14.1732" class="st8"/>
-			<text x="8.17" y="167.09" class="st9" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>25</text>		</g>
+			<text x="6.18" y="167.09" class="st9" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>-25</text>		</g>
 		<g id="shape261-560" v:mID="261" v:groupContext="shape" transform="translate(227.022,-83.872)">
 			<title>Punt A.261</title>
 			<desc>40</desc>
