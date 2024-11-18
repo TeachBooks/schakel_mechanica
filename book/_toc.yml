@@ -213,6 +213,7 @@ parts:
       - file: week_12/homework_2/copy
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/solve_bending/shear
+    - file: week_12/session_2/intro
     - file: week_12/homework_3/intro
       sections: 
       - file: external/mechanics-BSc/book/stresses_displacements/cross-sectional/core-cross-section
