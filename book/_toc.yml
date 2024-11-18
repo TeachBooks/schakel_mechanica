@@ -219,7 +219,6 @@ parts:
       - file: external/mechanics-BSc/book/stresses_displacements/cross-sectional/core-cross-section
 - caption: Miscellaneous
   chapters:
-  - file: changelog
   - file: genindex
   - file: references
   - file: credits
