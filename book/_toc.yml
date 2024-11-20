@@ -217,9 +217,9 @@ parts:
     - file: week_12/homework_3/intro
       sections: 
       - file: external/mechanics-BSc/book/stresses_displacements/cross-sectional/core-cross-section
-  - file: week_1/session_3/intro
+  - file: week_13/intro
     sections:
-    - file: week_1/session_3/homework_1/intro
+    - file: week_13/homework_1/intro
       sections:
       - file: external/mechanics-BSc/book/continuum/model/intro
         sections:
@@ -229,7 +229,7 @@ parts:
       - file: external/mechanics-BSc/book/continuum/transformations/intro
         sections:
         - file: external/mechanics-BSc/book/continuum/transformations/analytical
-    - file: week_1/session_3/homework_2/intro
+    - file: week_13/homework_2/intro
       sections:
       - file: week_13/homework_2/copy
         sections:
