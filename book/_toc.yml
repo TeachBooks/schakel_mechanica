@@ -217,6 +217,27 @@ parts:
     - file: week_12/homework_3/intro
       sections: 
       - file: external/mechanics-BSc/book/stresses_displacements/cross-sectional/core-cross-section
+  - file: week_13/intro
+    sections:
+    - file: week_13/homework_1/intro
+      sections:
+      - file: external/mechanics-BSc/book/continuum/model/intro
+        sections:
+        - file: external/mechanics-BSc/book/continuum/model/stresses-3D
+        - file: external/mechanics-BSc/book/continuum/model/strains-2D
+        - file: external/mechanics-BSc/book/continuum/model/tensors
+      - file: external/mechanics-BSc/book/continuum/transformations/intro
+        sections:
+        - file: external/mechanics-BSc/book/continuum/transformations/analytical
+    - file: week_13/homework_2/intro
+      sections:
+      - file: week_13/homework_2/copy
+        sections:
+        - file: external/mechanics-BSc/book/continuum/model/stress-strain
+      - file: week_13/homework_3/copy2
+        sections:
+        - file: external/mechanics-BSc/book/continuum/transformations/graphical
+
 - caption: Miscellaneous
   chapters:
   - file: genindex
