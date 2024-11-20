@@ -235,7 +235,7 @@ parts:
       - file: week_13/homework_2/copy
         sections:
         - file: external/mechanics-BSc/book/continuum/model/stress-strain
-      - file: week_13/homework_3/copy2
+      - file: week_13/homework_2/copy2
         sections:
         - file: external/mechanics-BSc/book/continuum/transformations/graphical
 
