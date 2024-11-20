@@ -233,10 +233,10 @@ parts:
       sections:
       - file: week_13/homework_2/copy
         sections:
-        - fie: external/mechanics-BSc/book/continuum/model/stress-strain
+        - file: external/mechanics-BSc/book/continuum/model/stress-strain
       - file: week_13/homework_3/copy2
         sections:
-        - fie: external/mechanics-BSc/book/continuum/transformations/graphical
+        - file: external/mechanics-BSc/book/continuum/transformations/graphical
 
 - caption: Miscellaneous
   chapters:
