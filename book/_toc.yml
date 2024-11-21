@@ -220,6 +220,7 @@ parts:
     - file: week_12/session_3/intro
   - file: week_13/intro
     sections:
+    - file: week_13/session_1/intro
     - file: week_13/homework_1/intro
       sections:
       - file: external/mechanics-BSc/book/continuum/model/intro
