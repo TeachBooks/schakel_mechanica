@@ -239,6 +239,7 @@ parts:
       - file: week_13/homework_2/copy2
         sections:
         - file: external/mechanics-BSc/book/continuum/transformations/graphical
+    - file: week_13/session_2/intro
 
 - caption: Miscellaneous
   chapters:
