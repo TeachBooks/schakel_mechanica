@@ -214,11 +214,11 @@
 			</g>
 			<g id="shape40-132" v:mID="40" v:groupContext="shape" transform="translate(4.25197,-56.6929)">
 				<title>Blad.40</title>
-				<desc>5 m</desc>
+				<desc>10 m</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="14.1732" cy="291.003" width="28.35" height="28.3465"/>
-				<rect x="0" y="276.83" width="28.3465" height="28.3465" class="st14"/>
-				<text x="5.01" y="294.6" class="st15" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>5 m</text>			</g>
+				<v:textRect cx="16.2992" cy="291.003" width="32.6" height="28.3465"/>
+				<rect x="0" y="276.83" width="32.5984" height="28.3465" class="st14"/>
+				<text x="4.13" y="294.6" class="st15" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>10 m</text>			</g>
 		</g>
 		<g id="shape53-135" v:mID="53" v:groupContext="shape" transform="translate(57.0679,-248.258)">
 			<title>Maatlijn.52</title>
