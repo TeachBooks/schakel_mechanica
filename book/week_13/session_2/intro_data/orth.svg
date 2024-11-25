@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export orth.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="3.43561in" height="2.30138in"
+		viewBox="0 0 247.364 165.699" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#d8d8d8;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {marker-start:url(#mrkr5-8);stroke:#800000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#800000;fill-opacity:1;stroke:#800000;stroke-opacity:1;stroke-width:0.34246575342466}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:Times New Roman;font-size:1.00001em;font-style:italic}
+		.st6 {font-size:1em;font-style:normal}
+		.st7 {font-size:1em}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-8" class="st3" v:arrowType="5" v:arrowSize="0" v:setback="4.63" refX="4.63" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(2.92) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape14-1" v:mID="14" v:groupContext="shape" transform="translate(82.5797,-40.3301)">
+			<title>Blad.14</title>
+			<rect x="0" y="80.6601" width="85.0394" height="85.0394" class="st1"/>
+		</g>
+		<g id="shape15-3" v:mID="15" v:groupContext="shape" transform="translate(340.405,68.6765) rotate(90)">
+			<title>Spanning.15</title>
+			<path d="M3.47 165.7 L3.83 165.7 L28.35 165.7" class="st2"/>
+		</g>
+		<g id="shape16-9" v:mID="16" v:groupContext="shape" transform="translate(174.706,-82.8497)">
+			<title>Spanning.16</title>
+			<path d="M3.47 165.7 L3.83 165.7 L28.35 165.7" class="st2"/>
+		</g>
+		<g id="shape17-14" v:mID="17" v:groupContext="shape" transform="translate(161.95,-51.5315)">
+			<title>Blad.17</title>
+			<desc>τ = 9 MPa σ = 3 MPa</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="151.526" width="85.04" height="28.3465"/>
+			<rect x="0" y="137.353" width="85.0394" height="28.3465" class="st4"/>
+			<text x="18.15" y="147.93" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>τ<tspan class="st6"> </tspan><tspan
+						class="st6">= 9 </tspan><tspan class="st6">MPa<v:newlineChar/></tspan><tspan x="17.34" dy="1.2em"
+						class="st7">σ</tspan><tspan class="st6"> </tspan><tspan class="st6">= 3 </tspan><tspan class="st6">MPa</tspan></text>		</g>
+		<g id="shape18-24" v:mID="18" v:groupContext="shape" transform="translate(-90.2064,97.023) rotate(-90)">
+			<title>Spanning.18</title>
+			<path d="M3.47 165.7 L3.83 165.7 L28.35 165.7" class="st2"/>
+		</g>
+		<g id="shape19-29" v:mID="19" v:groupContext="shape" transform="translate(47.1467,-82.8497)">
+			<title>Spanning.19</title>
+			<path d="M3.47 165.7 L3.83 165.7 L28.35 165.7" class="st2"/>
+		</g>
+		<g id="shape20-34" v:mID="20" v:groupContext="shape" transform="translate(0.375,-50.2513)">
+			<title>Blad.20</title>
+			<desc>τ = 9 MPa σ = 3 MPa</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="151.526" width="85.04" height="28.3465"/>
+			<rect x="0" y="137.353" width="85.0394" height="28.3465" class="st4"/>
+			<text x="18.15" y="147.93" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>τ<tspan class="st6"> </tspan><tspan
+						class="st6">= 9 </tspan><tspan class="st6">MPa<v:newlineChar/></tspan><tspan x="17.34" dy="1.2em"
+						class="st7">σ</tspan><tspan class="st6"> </tspan><tspan class="st6">= 3 </tspan><tspan class="st6">MPa</tspan></text>		</g>
+		<g id="shape21-44" v:mID="21" v:groupContext="shape" transform="translate(139.273,198.943) rotate(180)">
+			<title>Spanning.21</title>
+			<path d="M3.47 165.7 L3.83 165.7 L28.35 165.7" class="st2"/>
+		</g>
+		<g id="shape22-49" v:mID="22" v:groupContext="shape" transform="translate(290.799,4.89699) rotate(90)">
+			<title>Spanning.22</title>
+			<path d="M3.47 165.7 L3.83 165.7 L28.35 165.7" class="st2"/>
+		</g>
+		<g id="shape23-54" v:mID="23" v:groupContext="shape" transform="translate(118.013,-132.456)">
+			<title>Blad.23</title>
+			<desc>τ = 9 MPa σ = 21 MPa</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="151.526" width="85.04" height="28.3465"/>
+			<rect x="0" y="137.353" width="85.0394" height="28.3465" class="st4"/>
+			<text x="18.15" y="147.93" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>τ<tspan class="st6"> </tspan><tspan
+						class="st6">= 9 </tspan><tspan class="st6">MPa<v:newlineChar/></tspan><tspan x="14.34" dy="1.2em"
+						class="st7">σ</tspan><tspan class="st6"> </tspan><tspan class="st6">= 21 </tspan><tspan class="st6">MPa</tspan></text>		</g>
+		<g id="shape24-64" v:mID="24" v:groupContext="shape" transform="translate(110.926,-33.2434)">
+			<title>Spanning.24</title>
+			<path d="M3.47 165.7 L3.83 165.7 L28.35 165.7" class="st2"/>
+		</g>
+		<g id="shape25-69" v:mID="25" v:groupContext="shape" transform="translate(-40.6001,160.802) rotate(-90)">
+			<title>Spanning.25</title>
+			<path d="M3.47 165.7 L3.83 165.7 L28.35 165.7" class="st2"/>
+		</g>
+		<g id="shape43-74" v:mID="43" v:groupContext="shape" transform="translate(125.099,-6.31434)">
+			<title>Blad.43</title>
+			<desc>τ = 9 MPa σ = 21 MPa</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="151.526" width="85.04" height="28.3465"/>
+			<rect x="0" y="137.353" width="85.0394" height="28.3465" class="st4"/>
+			<text x="18.15" y="147.93" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>τ<tspan class="st6"> </tspan><tspan
+						class="st6">= 9 </tspan><tspan class="st6">MPa<v:newlineChar/></tspan><tspan x="14.34" dy="1.2em"
+						class="st7">σ</tspan><tspan class="st6"> </tspan><tspan class="st6">= 21 </tspan><tspan class="st6">MPa</tspan></text>		</g>
+	</g>
+</svg>
