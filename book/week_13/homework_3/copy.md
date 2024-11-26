@@ -1,2 +1,2 @@
-```{include} ../../external/mechanics-BSc/book/support_internal_forces/equilibrium/intro
+```{include} ../../external/mechanics-BSc/book/support_internal_forces/equilibrium/intro.md
 ```

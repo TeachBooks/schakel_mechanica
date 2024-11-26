@@ -1,2 +1,2 @@
-```{include} ../../external/mechanics-BSc/book/stresses_displacements/strain_diagram/intro
+```{include} ../../external/mechanics-BSc/book/stresses_displacements/strain_diagram/intro.md
 ```
