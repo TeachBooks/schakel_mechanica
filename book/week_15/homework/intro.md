@@ -24,7 +24,7 @@ As a preparation for the second assignment on Continuum mechanics you can repeat
 - The stripped version of the [Mechanics-BSc book](https://teachbooks.github.io/mechanics-BSc/2024-assignment2) book (url includes `/2024-assignment2`).
 - The following chapters of the full [Mechanics-BSc book](https://teachbooks.github.io/mechanics-BSc):
     - [Prerequisites statics](https://teachbooks.github.io/mechanics-BSc/support_internal_forces/intro.html): all topics
-    - [Prerequisites stresses and displacements](https://teachbooks.github.io/mechanics-BSc/stresses_displacements/intro.html): all topics except for `Solve displacemenets ...` and `kinematic relations`.
+    - [Prerequisites stresses and displacements](https://teachbooks.github.io/mechanics-BSc/stresses_displacements/intro.html): all topics except for `Solve displacements ...` and `kinematic relations`.
     - [Continuum mehcanics](https://teachbooks.io/mechanics-BSc/continuum/intro.html)
 
 Repeat those topics which you have difficulty with. If you've any questions along the way, please visit the TAs in 6.41 during lunch time.
