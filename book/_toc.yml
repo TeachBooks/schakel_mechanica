@@ -284,6 +284,18 @@ parts:
         - file: external/mechanics-BSc/book/stresses_displacements/solve_torsion/thin-walled-non-circular
         - file: external/mechanics-BSc/book/stresses_displacements/solve_torsion/thin-walled-cross-section
         - file: external/mechanics-BSc/book/stresses_displacements/solve_torsion/mixed
+    - file: week_14/homework_2/intro
+      sections:
+      - file: week_14/homework_2/copy4
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/cross-sectional/shear-force-centre
+    - file: week_14/homework_3/intro
+      sections:
+      - file: external/mechanics-BSc/book/continuum/failure/failure
+  - file: week_15/intro
+    sections:
+    - file: week_15/homework/intro
+    - file: week_15/session/intro
 
 - caption: Miscellaneous
   chapters:
