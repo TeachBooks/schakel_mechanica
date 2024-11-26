@@ -1,4 +1,4 @@
-```{index} Force method; Class exercise
+```{index} Force method; Class exercise extension
 ```
 
 (lesson3.3)=

@@ -1,3 +1,8 @@
+```{index} Williot; Class exercise
+```
+```{index} Displacements truss structures; Class exercise
+``` 
+
 (lesson4.2)=
 # Lesson Wednesday September 23th
 
