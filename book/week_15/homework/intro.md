@@ -1,4 +1,4 @@
-(homework10)=
+(homework15.2)=
 # Preparation exam assignments Tuesday December 10th
 
 ## Assignment on statically indeterminate structures
