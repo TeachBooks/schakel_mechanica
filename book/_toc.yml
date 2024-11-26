@@ -247,7 +247,7 @@ parts:
         - file: external/mechanics-BSc/book/support_internal_forces/ode/torsion
       - file: week_13/homework_3/copy
         sections:
-        -file: external/mechanics-BSc/book/support_internal_forces/equilibrium/torsional
+        - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/torsional
       - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_torsion/intro
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_torsion/cross_section
