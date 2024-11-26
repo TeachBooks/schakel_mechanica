@@ -1,3 +1,6 @@
+```{index} Equilibrium; Class exercise
+```
+
 (lesson2.2)=
 # Lesson Wednesday September 11th
 
