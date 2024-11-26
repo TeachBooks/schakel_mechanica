@@ -1,3 +1,6 @@
+```{index} Section forces in frame structures; Class exercise
+```
+
 (lesson5.2)=
 # Lesson October 2nd
 
