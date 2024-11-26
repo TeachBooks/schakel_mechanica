@@ -38,7 +38,7 @@ sphinx:
     - jupyterbook_patches
     - download_link_replacer
     - sphinx.ext.extlinks
-    - tud_template
+    - sphinx_tudelft_theme
     - sphinx_image_inverter
 
 bibtex_bibfiles: 
