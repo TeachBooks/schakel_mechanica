@@ -13,7 +13,7 @@ You can refer to individual chapters or pages within this book as:
 
 We anticipate that the content of this book will change significantly. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URL's in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location within the book. For example:
 
-> `<Title of Chapter or Page>`. In Van Woudenberg, Tom, _TeachBook Bridging course Structural Mechanics_. [https://github.com/TeachBooks/bridging_mechanics](https://github.com/TeachBooks/bridging_mechanics) (`./book/intro/` chapter, accessed `date`).
+> `<Title of Chapter or Page>`. In Van Woudenberg, Tom, _TeachBook Bridging course Structural Mechanics_. [https://github.com/TeachBooks/bridging_mechanics](https://github.com/TeachBooks/bridging_mechanics) (`./book/<path to Chapter or Page>` chapter, accessed `date`).
 
 This book is [CC BY licensed](https://creativecommons.org/licenses/by/4.0/), meaning you are free to share and adapt the material, as long as you give appropriate credit, provide a link to the license and indicate if changes were made.
 
