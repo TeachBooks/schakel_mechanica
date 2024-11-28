@@ -1,7 +1,3 @@
-```{index} Exams; continuum mechanics
-```
-```{index} Exams; static indeterminancy 2
-```
 ```{index} Continuum mechanics; Exam
 ```
 ```{index} Static indeterminancy; Exam 2
