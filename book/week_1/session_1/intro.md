@@ -1,3 +1,6 @@
+```{index} Prerequisite tests; test 1
+```
+
 (lesson1.1)=
 # Lesson Monday September 2nd
 
