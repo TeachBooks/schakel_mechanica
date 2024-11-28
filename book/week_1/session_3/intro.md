@@ -1,4 +1,4 @@
-```{index} Prerequisite tests; grading
+```{index} Prerequisite tests; discussion
 ```
 
 (lesson1.3)=
