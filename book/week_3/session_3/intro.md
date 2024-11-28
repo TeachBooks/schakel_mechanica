@@ -1,4 +1,4 @@
-```{index} Force method; Class exercise extension
+```{index} Force method; class exercise statically indeterminate extension only
 ```
 
 (lesson3.3)=

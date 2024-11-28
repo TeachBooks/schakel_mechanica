@@ -1,4 +1,4 @@
-```{index} Prerequisite tests; test 1
+```{index} Section forces in truss structures; prerequisite test using equilibrium
 ```
 
 (lesson1.1)=
