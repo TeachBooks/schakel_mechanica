@@ -273,6 +273,7 @@ parts:
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_torsion/equations
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_torsion/ode
+    - file: week_13/session_3/intro
   - file: week_14/intro
     sections:
     - file: week_14/homework_1/intro
