@@ -1,4 +1,4 @@
-```{index} Virtual work; Class exercise
+```{index} Virtual work; class exercise
 ```
 
 (lesson6.2)=

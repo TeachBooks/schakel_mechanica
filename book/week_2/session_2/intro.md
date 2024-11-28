@@ -1,4 +1,4 @@
-```{index} Section forces frame structure; class exercise using equilibrium
+```{index} Section forces in frame structures; class exercise using equilibrium
 ```
 
 (lesson2.2)=

@@ -1,4 +1,4 @@
-```{index} Section forces in frame structures; Class exercise
+```{index} Section forces in frame structures; class exercise diagrams
 ```
 
 (lesson5.2)=
