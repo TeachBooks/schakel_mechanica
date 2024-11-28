@@ -1,4 +1,4 @@
-```{index} Static indeterminancy; exam
+```{index} Static indeterminancy; Exam
 ```
 
 (exam1)=

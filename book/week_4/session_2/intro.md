@@ -1,4 +1,4 @@
-```{index} Displacements truss structures; class exercise using williot
+```{index} Displacements truss structures; Class exercise using williot
 ``` 
 
 (lesson4.2)=
