@@ -505,7 +505,7 @@
 			<rect x="0" y="265.568" width="255.118" height="42.5197" class="st6"/>
 			<text x="65.13" y="276.03" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>E = 210 GPa, G = 80 GPa<v:newlineChar/><tspan
 						x="13.77" dy="1.2em" class="st22">Distributed load is applied in shear force centre<v:newlineChar/></tspan><tspan
-						x="47.19" dy="1.2em" class="st22">Point loads are applied at </tspan><tspan class="st23">y</tspan> = 3 m</text>		</g>
+						x="47.19" dy="1.2em" class="st22">Point loads are applied at </tspan><tspan class="st23">y</tspan> = 6 m</text>		</g>
 		<g id="group108-303" transform="translate(28.4665,-57.0353)" v:mID="108" v:groupContext="group">
 			<title>Maatlijn.108</title>
 			<g id="group109-304" transform="translate(0,-9.92126)" v:mID="109" v:groupContext="group">
@@ -525,11 +525,11 @@
 			</g>
 			<g id="shape113-318" v:mID="113" v:groupContext="shape" transform="translate(-21.2599,0)">
 				<title>Blad.113</title>
-				<desc>3 m</desc>
+				<desc>6 m</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="63.7796" cy="301.001" width="127.56" height="14.1732"/>
 				<rect x="0" y="293.914" width="127.559" height="14.1732" class="st1"/>
-				<text x="54.61" y="304.6" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>3 m</text>			</g>
+				<text x="54.61" y="304.6" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>6 m</text>			</g>
 		</g>
 		<g id="group114-321" transform="translate(208.466,-120.815)" v:mID="114" v:groupContext="group">
 			<title>Maatlijn verticaal</title>
@@ -623,11 +623,11 @@
 			</g>
 			<g id="shape141-387" v:mID="141" v:groupContext="shape" transform="translate(-21.2599,0)">
 				<title>Blad.141</title>
-				<desc>3 m</desc>
+				<desc>6 m</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="63.7796" cy="301.001" width="127.56" height="14.1732"/>
 				<rect x="0" y="293.914" width="127.559" height="14.1732" class="st1"/>
-				<text x="54.61" y="304.6" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>3 m</text>			</g>
+				<text x="54.61" y="304.6" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>6 m</text>			</g>
 		</g>
 	</g>
 </svg>
