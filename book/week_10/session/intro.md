@@ -1,3 +1,6 @@
+```{index} Static indeterminancy; Exam
+```
+
 (exam1)=
 # Exam Friday November 8th
 

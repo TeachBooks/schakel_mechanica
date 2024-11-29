@@ -1,3 +1,6 @@
+```{index} Section forces in frame structures; Class exercise using equilibrium
+```
+
 (lesson2.2)=
 # Lesson Wednesday September 11th
 

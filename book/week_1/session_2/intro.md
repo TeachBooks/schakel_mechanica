@@ -1,3 +1,8 @@
+```{index} Section forces in frame structures; prerequisite test using equilibrium and virtual work
+```
+```{index} Displacements frame structures; prerequisite test using forget-me-nots
+```
+
 (lesson1.2)=
 # Lesson Wednesday September 4th
 

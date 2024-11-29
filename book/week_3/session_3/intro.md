@@ -1,3 +1,6 @@
+```{index} Force method; demonstration statically indeterminate extension only
+```
+
 (lesson3.3)=
 # Lesson Friday September 20th
 

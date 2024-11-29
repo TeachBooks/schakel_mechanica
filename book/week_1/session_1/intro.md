@@ -1,3 +1,6 @@
+```{index} Section forces in truss structures; prerequisite test using equilibrium
+```
+
 (lesson1.1)=
 # Lesson Monday September 2nd
 

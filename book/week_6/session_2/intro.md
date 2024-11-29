@@ -1,3 +1,6 @@
+```{index} Virtual work; Class exercise
+```
+
 (lesson6.2)=
 # Lesson October 9th
 
