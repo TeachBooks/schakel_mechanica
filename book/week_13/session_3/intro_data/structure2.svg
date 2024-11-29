@@ -471,11 +471,11 @@
 			</g>
 			<g id="shape278-302" v:mID="278" v:groupContext="shape">
 				<title>Blad.278</title>
-				<desc>100 mm</desc>
+				<desc>300 mm</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="85.0394" cy="319.244" width="170.08" height="14.1732"/>
 				<rect x="0" y="312.158" width="170.079" height="14.1732" class="st14"/>
-				<text x="65.21" y="322.84" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>100 mm</text>			</g>
+				<text x="65.21" y="322.84" class="st7" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>300 mm</text>			</g>
 		</g>
 		<g id="shape279-305" v:mID="279" v:groupContext="shape" transform="translate(0.375,-127.786)">
 			<title>x-as.279</title>
