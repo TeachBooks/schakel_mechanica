@@ -285,6 +285,7 @@ parts:
         - file: external/mechanics-BSc/book/stresses_displacements/solve_torsion/thin-walled-non-circular
         - file: external/mechanics-BSc/book/stresses_displacements/solve_torsion/thin-walled-cross-section
         - file: external/mechanics-BSc/book/stresses_displacements/solve_torsion/mixed
+    - file: week_14/session_1/intro
     - file: week_14/homework_2/intro
       sections:
       - file: week_14/homework_2/copy4
