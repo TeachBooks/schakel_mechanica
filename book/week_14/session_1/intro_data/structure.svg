@@ -394,12 +394,12 @@
 			<text x="4" y="307.62" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>D</text>		</g>
 		<g id="shape84-232" v:mID="84" v:groupContext="shape" transform="translate(0.375,-15.9325)">
 			<title>Maatlijn verticaal.84</title>
-			<desc>Shear force centre at y = 0. Forces are applied in shear forc...</desc>
+			<desc>Shear force centre at y = 0. Forces are applied in shear- and...</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="155.906" cy="305.441" width="311.82" height="11.3386"/>
 			<rect x="0" y="299.772" width="311.811" height="11.3386" class="st9"/>
 			<text x="91.39" y="294.64" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Shear force centre at <tspan
-						class="st19">y </tspan>= 0.<v:newlineChar/><tspan x="22.14" dy="1.2em" class="st20">Forces are applied in shear force en normal force centre<v:newlineChar/></tspan><tspan
+						class="st19">y </tspan>= 0.<v:newlineChar/><tspan x="30.96" dy="1.2em" class="st20">Forces are applied in shear</tspan>- and normal force centre<v:newlineChar/><tspan
 						x="47.1" dy="1.2em" class="st20">Cross</tspan>-section can be modelled as thin-walled</text>		</g>
 		<g id="group85-238" transform="translate(99.5876,-83.964)" v:mID="85" v:groupContext="group">
 			<title>y,z-assenstelsel</title>
