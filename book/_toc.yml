@@ -295,6 +295,7 @@ parts:
     - file: week_14/homework_3/intro
       sections:
       - file: external/mechanics-BSc/book/continuum/failure/failure
+    - file: week_14/session_3/intro
   - file: week_15/intro
     sections:
     - file: week_15/homework/intro
