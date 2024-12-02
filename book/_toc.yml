@@ -291,6 +291,7 @@ parts:
       - file: week_14/homework_2/copy4
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/cross-sectional/shear-force-centre
+    - file: week_14/session_2/intro
     - file: week_14/homework_3/intro
       sections:
       - file: external/mechanics-BSc/book/continuum/failure/failure
