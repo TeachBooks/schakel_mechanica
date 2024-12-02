@@ -94,35 +94,35 @@
 		<g id="shape8-4" v:mID="8" v:groupContext="shape" transform="translate(112.344,-402.979)">
 			<title>Blad.8</title>
 		</g>
-		<g id="group12-5" transform="translate(106.674,-253.877)" v:mID="12" v:groupContext="group">
+		<g id="group12-5" transform="translate(106.674,-263.798)" v:mID="12" v:groupContext="group">
 			<title>y,z-assenstelsel</title>
-			<g id="group13-6" transform="translate(28.3465,-1.13687E-13)" v:mID="13" v:groupContext="group">
+			<g id="group13-6" transform="translate(28.3465,-5.68434E-14)" v:mID="13" v:groupContext="group">
 				<title>z-as.13611</title>
-				<g id="shape14-7" v:mID="14" v:groupContext="shape" transform="translate(416.634,388.287) rotate(90)">
+				<g id="shape14-7" v:mID="14" v:groupContext="shape" transform="translate(416.634,398.209) rotate(90)">
 					<title>Blad.14</title>
-					<path d="M0 416.63 L22.62 416.63" class="st2"/>
+					<path d="M0 416.63 L12.7 416.63" class="st2"/>
 				</g>
 				<g id="shape15-14" v:mID="15" v:groupContext="shape">
 					<title>Blad.15</title>
 					<desc>z</desc>
 					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-					<v:textRect cx="7.08661" cy="413.799" width="14.18" height="5.66929"/>
-					<rect x="0" y="410.965" width="14.1732" height="5.66929" class="st4"/>
-					<text x="4.75" y="417.4" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>z</text>				</g>
+					<v:textRect cx="7.08661" cy="414.791" width="14.18" height="3.68504"/>
+					<rect x="0" y="412.949" width="14.1732" height="3.68504" class="st4"/>
+					<text x="4.75" y="418.39" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>z</text>				</g>
 			</g>
-			<g id="group16-17" transform="translate(416.634,388.287) rotate(90)" v:mID="16" v:groupContext="group">
+			<g id="group16-17" transform="translate(416.634,398.209) rotate(90)" v:mID="16" v:groupContext="group">
 				<title>z-as.13614</title>
 				<g id="shape17-18" v:mID="17" v:groupContext="shape" transform="translate(416.634,388.287) rotate(90)">
 					<title>Blad.17</title>
 					<path d="M0 416.63 L22.62 416.63" class="st2"/>
 				</g>
-				<g id="shape18-23" v:mID="18" v:groupContext="shape" transform="translate(-402.461,416.634) rotate(-90)">
+				<g id="shape18-23" v:mID="18" v:groupContext="shape" transform="translate(-404.161,416.634) rotate(-90)">
 					<title>Blad.18</title>
 					<desc>y</desc>
 					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-					<v:textRect cx="7.08661" cy="409.547" width="14.18" height="14.1732"/>
-					<rect x="0" y="402.461" width="14.1732" height="14.1732" class="st4"/>
-					<text x="4.42" y="413.15" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>y</text>				</g>
+					<v:textRect cx="7.08661" cy="412.028" width="14.18" height="9.2126"/>
+					<rect x="0" y="407.421" width="14.1732" height="9.2126" class="st4"/>
+					<text x="4.42" y="415.63" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>y</text>				</g>
 			</g>
 		</g>
 		<g id="shape23-26" v:mID="23" v:groupContext="shape" transform="translate(-303.876,-77.0639) rotate(-58.4113)">
@@ -575,23 +575,23 @@
 			<switch>
 				<foreignObject x="0" y="399.654" width="37.9843" height="16.9795"
 						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
-					<v:foreignData v:orgSize="2468" clip="rect(0 0 0 0)" v:data="data:metafile;base64,eNqdVV9sU2UUP99327G11d5RNJ
-								sjeGcsI4Qx1sQ/mSbQdR0lOli2KhICo3RX1qR/5jqde6IkPhgBh+FhDyYmRhPfFF8kITz0wRemD7yJe1iMiy9Eo5E+ECSrv3
-								Pvd9tvDRDla0++3znfueec7/y5VxBRHuQD+UFF0PPUXK9CeFQSWcmxUSJBX3YQ9UO+hTavCgQvw8gLgujrlrP2qz668pWkUf
-								ZlEJ0EHRw5lIBqhYA7P7uxznqjBnuAA+MLwR7OO09zVFIIhYSs1+sO2iu6lSwoPb2QtGTVFwTa2RamEI1l5mfSi7M20T7aqq
-								TPUJ1NkAm+CnQNVEHkq3DRDtk92Qhcclb6hWt7mzwhOgSjiEyJQYXWxEWFjtCdBropOT/3XUvSzW4/7uDa95NQDly5REzIuh
-								GkNvGWeAW/j8V34ncxCjtMx+ieOEbLYk18AOoTb4iQyAo9tg72JN0oq2KItgP9IysbrpdLQsVhpnMFu2wdthesiVIhU6QN3L
-								3rz4jx447AwoFGPAY9gT0W8CKMxazCirhNp1CZ815uRXx2tjw2mkAVf4OMacQu584Urclszi5m7T3WoWJ2L/kFbfGNTI6lX0
-								JqjuaK8Xx+OFPOZROlaXs8c8YuU6e/NaxOY3KxcLqUx1Gi9O5czp7jQ+r0jaWt5PvzcxkUs713ILk0MhAfr5nhg1Px8b+f3Q
-								H8VDhOtWQtWlsangIywwnelpK13VOp2pIjOYD9bAogvntqZCpZ4388HBIoipBYyJNAqQzwuHxAgP8wBjbAzelgCuI8IOmcBf
-								5cATcPqKwEnN5y093SSyq3PtI6oyH1q4qZaq6uO+cI57nJxfK8DRd94qMg+/l24O1tTMzfvRsx3OfbHDt/oXKGstvJ06Ci4H
-								ngbp8ERblbWvitSpfj7laYR+RphbvVDU1tpj0bVTi2EO1O4O3KRsuSUc1+j3quA8wJ0IuKHwROafxF4DWNvwN8hJr8Tenyfa
-								Aud8ga/kjdK6SYaDMXlTexp9SdeV4GQb0qR/9n+vQ7dSnM7rz7DXFucDiBfRY716Wywe+d5rokGhGbacpRgWwqk0WHsS9gn6
-								ASZBnnnfxfloqBuozSrftniX7J3jh9HAnIw0DvOpwFPznJ/OfHr67yeVTpv/NzcZP+8kDverOPm3qe3LO/POCw9bwTYNO+56
-								9HPdezutn+kJJXlQP3fdy0/80PM8q+y1dbmsqT6/6n33NavVFrzncaNK1mrF37trG5lU8v7P9j+MJ+fQ5fb8lnXS22E8PPQj
-								VW8PBt8KfIdeL1ve8B9fBi8Wl96n+IDsu9XmlTPaR/Y6+rBnfeCbSIPplHlxTo8deVPVyLB9XycXrF/5Be+f4nV/9yxCzq5x
-								5v9oZWH+WfebNoNvR3XZu55VowN9nx1q9tM4+8z+VIsd7aK5zvXVrfeHLkvxJtzlVln8JhTY4vZeU17d3o12wJDUsN+zSs63
-								McT/I3nJo3ZPwvJhCJ0g=="/>
+					<v:foreignData v:orgSize="2468" clip="rect(0 0 0 0)" v:data="data:metafile;base64,eNqdVU1sG1UQnvfWTuMf8KZpUY
+								KrsqlwU1VNnVjiRwGpcRKnriCtlRhCqUpqkqWx5J8QB1JzqStxQLQlvXHgAgKJG5QLlaqq8oFT4NAbJYcckLhUIBD1oSptzD
+								fet/aL1VbQZ4/eN/NmZ+bNz64gohzIA/KCCqBnqbVehnBGElmJyQkiQV/5iAYg30ZbVwWCF2HkOUH0TdtZ5xUPXf5a0gT7Mo
+								jeAh0ePzIG1QoBnym/Oc16EwZ7gAPjS8Eezjee5qikEAoJWa/XG+ig6FWygHT1gtKSVU8AaG9HiII0mVleSJcXbaJB2q6kT1
+								OdTZAJvgp0FVRB5Otw0QnZXdkMXHJWBoRje4c8KXyCUbdMiiGFNsRFhY7R7Sa6ITk/9xxL0snuAO7g2PeSUA4cuURMyLoRoA
+								7xhngJv0/E9+J3MQE7TMfprjhOn4oN8SGoX7wmgmJO6LH52JN0oqyKYdoF9I+sbDpeLgkVh5nO5u2SddResaaK+UyBNnH3nj
+								+7jZ92+1dGmvEY9AT2mN+NMBaz8mviFp1CZc67uRXxxcXS5MQYqvgbZEzjdil7umBNz2Xtwpx9wDpSmDtIXkHbPOPTk+kXkJ
+								qZbCGey41mStm5seK8ncqctkvU5W0Pq8uYLuffLuZwNFZ8bylrL/EhdXkm01bizPJSBsXs7IsmVsej8VTNDB2ejaf+fmY38M
+								5QnGqJWqS2OjoLZIbGeFtN1PbPJmurDckI9rNJgPj+2fHZRI3/8VBQoChCYiFPAqUywOPyfgH+oxhYPzdnA1MA535J5yzw5/
+								K4uV9lxd/oLSfdbb2kcushrTOaUq+qmKnm6lrjHOHsmS6Xlm246BcfB9jPd9F3djAxf+dOt+E839Gw8xcqZyi7XTwNKgqeB+
+								52HrIId0sbv13pcty9CvOIPKVwr7qhqc20a6MKxxai3Qu8S9loWzKi2Q+r53xgToKeV/wQcFLjLwJvaPxt4GPU4m9Ih+8H9T
+								hD1vRH6l5BxURauai8jj2p7szzMgTqUzn6P9On36lHYXbn3m+Yc4PDKeyL2LkulU1+77TWJdGM2ExTlvJkU4ksOop9BfsUFS
+								HLNN7J/2WpGKjHKN68d5ZoZOcH8yeQgBwM9KUEfe67PsP8FyeurPN5ROm/+0thi3492pcirZaunit37dejKW73eq7gaLv2XX
+								9h9Vx4fav9YSWvKgfO+7hl/9sfF5R9h6+2NZUr1/3Pv99o9WatOd9p0LyasU7t28bm1j67cOiP0QuH9Dl8tS2fdbXYTgw/C9
+								VYw8O3wJ8ix4nb954H1MONxaP1qfchOix3e6VD9ZD+jb2mGrzxTqAy+mQZXZKnx1+XD3AtHlTLx+kV70N65YefHf37g2ZYP3
+								d5sy+4/ij/zJths6m/7+rCTceCucWOu37tWHjkfe4PhuvtvcL53qf1jStH/iuR1lxVBhUOaXJ8KSuvaO9Gr2ZLaFhq2KNhXZ
+								/jeJK/4dS6IeN/AVoUZ+c="/>
 				</foreignObject>
 				<svg viewBox="0 0 83.262 37.179" enable-background="new" color-interpolation-filters="sRGB" clip="rect(0 0 0 0)"
 						height="16.9795" overflow="hidden" preserveAspectRatio="none" width="37.9843" x="0" y="399.654">
@@ -610,7 +610,7 @@
 							</g>
 						</g>
 					</g>
-					<mask id="mfid1" fill-rule="evenodd" fill="white" stroke="none"/>
+					<mask id="mfid2" fill-rule="evenodd" fill="white" stroke="none"/>
 				</svg>
 			</switch>
 			<rect v:rectContext="foreign" x="0" y="399.654" width="37.9843" height="16.9795" class="st4"/>
