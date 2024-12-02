@@ -1,8 +1,7 @@
-```{index} Continuum mechanics; Exam
+```{index} Static indeterminate structures; Exam assignment
 ```
-```{index} Static indeterminancy; Exam 2
+```{index} Continuum mechanics; Exam assignment
 ```
-
 
 (exam2)=
 # Exam Tuesday December 10th

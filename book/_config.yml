@@ -122,7 +122,7 @@ parse:
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
       |Homework deadlines ||[Prepare for exam statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`||||To be provided|
-      |Class activities||[Exam statically indeterminate structure and continuum mechanics](exam2) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`||||
+      |Class activities||[Exam statically indeterminate structure and continuum mechanics](exam2) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`||[Review exam assignment 2 statically indeterminate structures and assignment 1 continuum mechanics](lesson15.2)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`||
     week16: "To be provided"
     week17: "To be provided"
     week18: "To be provided"
