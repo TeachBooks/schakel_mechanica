@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export max2.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="3.19939in" height="2.14053in"
+		viewBox="0 0 230.356 154.118" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#7f7f7f;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {marker-start:url(#mrkr5-8);stroke:#800000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#800000;fill-opacity:1;stroke:#800000;stroke-opacity:1;stroke-width:0.34246575342466}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:Times New Roman;font-size:1.00001em}
+		.st6 {marker-end:url(#mrkr1-25);stroke:#000000;stroke-linecap:butt;stroke-width:3}
+		.st7 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.67567567567568}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-8" class="st3" v:arrowType="5" v:arrowSize="0" v:setback="4.63" refX="4.63" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(2.92) "/>
+		</marker>
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-25" class="st7" v:arrowType="1" v:arrowSize="0" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-1.48,-1.48) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape229-1" v:mID="229" v:groupContext="shape" transform="translate(-2.30369,38.861) rotate(-45)">
+			<title>Blad.229</title>
+			<rect x="0" y="53.8982" width="100.22" height="100.22" class="st1"/>
+		</g>
+		<g id="shape231-3" v:mID="231" v:groupContext="shape" transform="translate(151.873,-95.7847) rotate(45)">
+			<title>Spanning</title>
+			<path d="M3.47 154.12 L3.83 154.12 L40.09 154.12" class="st2"/>
+		</g>
+		<g id="shape232-9" v:mID="232" v:groupContext="shape" transform="translate(61.4758,249.73) rotate(-135)">
+			<title>Spanning.232</title>
+			<path d="M3.47 154.12 L3.83 154.12 L40.09 154.12" class="st2"/>
+		</g>
+		<g id="shape233-14" v:mID="233" v:groupContext="shape" transform="translate(28.7215,-139.57)">
+			<title>Maatlijn verticaal.188</title>
+			<desc>477.6 MPa</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="147.031" width="70.87" height="14.1732"/>
+			<rect x="0" y="139.945" width="70.8661" height="14.1732" class="st4"/>
+			<text x="9.1" y="150.63" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>477.6 MPa</text>		</g>
+		<g id="shape234-17" v:mID="234" v:groupContext="shape" transform="translate(159.115,-14.783)">
+			<title>Maatlijn verticaal.234</title>
+			<desc>477.6 MPa</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="147.031" width="70.87" height="14.1732"/>
+			<rect x="0" y="139.945" width="70.8661" height="14.1732" class="st4"/>
+			<text x="9.1" y="150.63" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>477.6 MPa</text>		</g>
+		<g id="shape235-20" v:mID="235" v:groupContext="shape" transform="translate(278.659,91.9794) rotate(68.7495) scale(-1,1)">
+			<title>Hoekverdraaiing</title>
+			<path d="M0 154.12 C6.87 151.45 13.83 150.57 21.9 154.12" class="st6"/>
+		</g>
+		<g id="shape236-26" v:mID="236" v:groupContext="shape" transform="translate(131.052,-14.783)">
+			<title>Maatlijn verticaal.236</title>
+			<desc>45°</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="147.031" width="28.35" height="14.1732"/>
+			<rect x="0" y="139.945" width="28.3465" height="14.1732" class="st4"/>
+			<text x="5.77" y="150.63" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>45°  </text>		</g>
+		<g id="shape237-29" v:mID="237" v:groupContext="shape" transform="translate(33.1294,-67.4382) rotate(-45)">
+			<title>Spanning.237</title>
+			<path d="M3.47 154.12 L3.83 154.12 L40.09 154.12" class="st2"/>
+		</g>
+		<g id="shape238-34" v:mID="238" v:groupContext="shape" transform="translate(142.107,-108.692)">
+			<title>Maatlijn verticaal.238</title>
+			<desc>477.6 MPa</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="147.031" width="70.87" height="14.1732"/>
+			<rect x="0" y="139.945" width="70.8661" height="14.1732" class="st4"/>
+			<text x="9.1" y="150.63" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>477.6 MPa</text>		</g>
+		<g id="shape239-37" v:mID="239" v:groupContext="shape" transform="translate(180.219,221.384) rotate(135)">
+			<title>Spanning.239</title>
+			<path d="M3.47 154.12 L3.83 154.12 L40.09 154.12" class="st2"/>
+		</g>
+		<g id="shape240-42" v:mID="240" v:groupContext="shape" transform="translate(0.375,-34.6256)">
+			<title>Maatlijn verticaal.240</title>
+			<desc>477.6 MPa</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="147.031" width="70.87" height="14.1732"/>
+			<rect x="0" y="139.945" width="70.8661" height="14.1732" class="st4"/>
+			<text x="9.1" y="150.63" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>477.6 MPa</text>		</g>
+	</g>
+</svg>
