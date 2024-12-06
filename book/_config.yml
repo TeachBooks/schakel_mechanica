@@ -2,7 +2,6 @@
 title: Bridging course Structural Mechanics
 author: Tom van Woudenberg from Delft University of Technology, built with <a href="https://teachbooks.tudelft.nl/">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""></a>
 email: T.R.vanWoudenberg@tudelft.nl
-logo: figures/TUDelft_logo_rgb.svg
 
 execute:
   execute_notebooks: "off"
@@ -16,6 +15,8 @@ html:
 
 sphinx:
   config:
+    logo:
+      text: CT1000 Structural Mechanics 2024/2025
     bibtex_reference_style: super
     html_js_files:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
