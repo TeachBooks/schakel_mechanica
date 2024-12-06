@@ -11,6 +11,7 @@ on:
     paths:
     - book/**
     - .github/workflows/call-deploy-book.yml
+    - requirements.txt
   workflow_dispatch:
 
 jobs: 
