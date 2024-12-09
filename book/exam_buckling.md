@@ -14,6 +14,7 @@ As a preparation for the second assignment on Buckling you can repeat all the to
     - Homework deadline lesson Monday September 23th
   - Week 5 (September 30th)
     - Homework deadline lesson Friday October 4th
+- The stripped version of the [Mechanics-BSc book](https://teachbooks.github.io/mechanics-BSc/2024-assignment3) book (url includes `/2024-assignment3`).
 - The following chapters of the full [Mechanics-BSc book](https://teachbooks.github.io/mechanics-BSc):
     - Statics:  all topics as a prerequisite, except for:
       - `Virtual work`
