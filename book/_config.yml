@@ -41,7 +41,7 @@ sphinx:
     - download_link_replacer
     - sphinx.ext.extlinks
     - sphinx_tudelft_theme
-    #- sphinx_image_inverter
+    - sphinx_image_inverter
 
 bibtex_bibfiles: 
   - external/mechanics-BSc/book/references.bib
