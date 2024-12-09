@@ -50,9 +50,9 @@ Free-body-diagram full structure
 
 $$
 \begin{array}{c}
-\sum {{{\left. T \right|}_{\rm{A}}} = 0}  \to {B_{\rm{v}}} = 5{\text{ kN}}\\
-\sum {{F_{\rm{v}}} = 0}  \to {A_{\rm{v}}} = 15{\text{ kN}}\\
-\sum {{F_{\rm{h}}} = 0}  \to {A_{\rm{h}}} = {B_{\rm{h}}}
+\sum {{{\left. T \right|}_{\text{A}}} = 0}  \to {B_{\text{v}}} = 5{\text{ kN}}\\
+\sum {{F_{\text{v}}} = 0}  \to {A_{\text{v}}} = 15{\text{ kN}}\\
+\sum {{F_{\text{h}}} = 0}  \to {A_{\text{h}}} = {B_{\text{h}}}
 \end{array}
 $$
 
@@ -76,8 +76,8 @@ Free-body-diagram joint $\text{B}$
 
 $$
 \begin{array}{c}
-\sum {{F_{\rm{v}}} = 0}  \to {N_{{\rm{BE}}}} = -6.25{\text{ kN}}\\
-\sum {{F_{\rm{h}}} = 0}  \to {N_{{\rm{BD}}}} =  3.75 - {B_{\rm{h}}}
+\sum {{F_{\text{v}}} = 0}  \to {N_{{\text{BE}}}} = -6.25{\text{ kN}}\\
+\sum {{F_{\text{h}}} = 0}  \to {N_{{\text{BD}}}} =  3.75 - {B_{\text{h}}}
 \end{array}
 $$
 
@@ -97,9 +97,9 @@ Free-body-diagram part $\text{AC}$
 
 $$
 \begin{array}{c}
-\sum {{F_{\rm{v}}} = 0}  \to {N_{{\rm{CD}}}} =  - 6.25{\rm{ kN}}\\
-{\sum {\left. T \right|} _{\rm{D}}} = 0 \to {N_{CE}} =  - 7.5{\rm{ kN}}\\
-\sum {{F_{\rm{h}}} = 0}  \to {N_{{\rm{AD}}}} = 11.25 - {B_{\rm{h}}}
+\sum {{F_{\text{v}}} = 0}  \to {N_{{\text{CD}}}} =  - 6.25{\text{ kN}}\\
+{\sum {\left. T \right|} _{\text{D}}} = 0 \to {N_{CE}} =  - 7.5{\text{ kN}}\\
+\sum {{F_{\text{h}}} = 0}  \to {N_{{\text{AD}}}} = 11.25 - {B_{\text{h}}}
 \end{array}
 $$
 
@@ -117,7 +117,7 @@ Thirdly, let's continue with the joint $\text{D}$:
 Free-body-diagram joint $\text{D}$
 ```
 
-$$\sum {{F_{\rm{v}}} = 0}  \to {N_{{\rm{DE}}}} =  6.25{\text{ kN}}$$
+$$\sum {{F_{\text{v}}} = 0}  \to {N_{{\text{DE}}}} =  6.25{\text{ kN}}$$
 
 ```{figure} ./intro_data/FBD_D_sol.svg
 :align: center
@@ -133,7 +133,7 @@ And finally joint $\text{C}$:
 Free-body-diagram joint $\text{D}$
 ```
 
-$$\sum {{F_{\rm{v}}} = 0}  \to {N_{{\rm{AC}}}} =  - 18.75{\text{ kN}}$$
+$$\sum {{F_{\text{v}}} = 0}  \to {N_{{\text{AC}}}} =  - 18.75{\text{ kN}}$$
 
 ```{figure} ./intro_data/FBD_C_sol.svg
 :align: center
@@ -146,13 +146,13 @@ Free-body-diagram joint $\text{D}$
 Now, for each element the shortening / lengthening can be calculated:
 
 $$\Delta L = \frac{{NL}}{{EA}} \to \begin{array}{c}
-{\Delta {L_{{\rm{AC}}}} =  - 0.025{\text{ m}}}\\
-{\Delta {L_{{\rm{CE}}}} =  - 0.012{\text{ m}}}\\
-{\Delta {L_{\rm{BE}}} = \cfrac{1}{{120}} \approx  - 0.00833{\text{ m}}}\\
-{\Delta {L_{{\rm{CD}}}} = \cfrac{1}{{120}} \approx  - 0.00833{\text{ m}}}\\
-{\Delta {L_{{\rm{DE}}}} = \cfrac{1}{{120}} \approx 0.00833{\text{ m}}}\\
-{\Delta {L_{{\rm{AD}}}} = 0.018 - \cfrac{1}{{625}}{B_{\rm{h}}} = 0.018 - 0.0016{B_{\rm{h}}}{\text{ m}}}\\
-{\Delta {L_{{\rm{DB}}}} = 0.006 - 0.0016{B_{\rm{h}}}{\text{ m}}}
+{\Delta {L_{{\text{AC}}}} =  - 0.025{\text{ m}}}\\
+{\Delta {L_{{\text{CE}}}} =  - 0.012{\text{ m}}}\\
+{\Delta {L_{\text{BE}}} = \cfrac{1}{{120}} \approx  - 0.00833{\text{ m}}}\\
+{\Delta {L_{{\text{CD}}}} = \cfrac{1}{{120}} \approx  - 0.00833{\text{ m}}}\\
+{\Delta {L_{{\text{DE}}}} = \cfrac{1}{{120}} \approx 0.00833{\text{ m}}}\\
+{\Delta {L_{{\text{AD}}}} = 0.018 - \cfrac{1}{{625}}{B_{\text{h}}} = 0.018 - 0.0016{B_{\text{h}}}{\text{ m}}}\\
+{\Delta {L_{{\text{DB}}}} = 0.006 - 0.0016{B_{\text{h}}}{\text{ m}}}
 \end{array}$$
 
 ### Displacement structure due to $20 \text{ kN}$
@@ -223,12 +223,12 @@ Leading to the following displacements if $\text{AD}$ doesn't rotate:
 | joint | Displacement due to $B_\text{h}$ in horizontal direction → | Displacement due to $B_\text{h}$ in vertical direction ↓|
 | :-:|:-:|:-:|
 |$\text{A}$|$0$|$0$|
-|$\text{C}$|$-0.8{B_{\rm{h}}}$|$-0.6{B_{\rm{h}}}$|
-|$\text{D}$|$-1.6{B_{\rm{h}}}$|$0$|
-|$\text{E}$|$-0.8{B_{\rm{h}}}$|$0.6{B_{\rm{h}}}$|
-|$\text{B}$|$-3.2{B_{\rm{h}}}$|$2.4{B_{\rm{h}}}$|
+|$\text{C}$|$-0.8{B_{\text{h}}}$|$-0.6{B_{\text{h}}}$|
+|$\text{D}$|$-1.6{B_{\text{h}}}$|$0$|
+|$\text{E}$|$-0.8{B_{\text{h}}}$|$0.6{B_{\text{h}}}$|
+|$\text{B}$|$-3.2{B_{\text{h}}}$|$2.4{B_{\text{h}}}$|
 
-Again, $\text{B}$ Shouldn't move vertically, so this structure has to be rotated back with $\theta = \cfrac{2.4{B_{\rm{h}}}}{{12000}} = 0.0002{B_{\rm{h}}}{\text{ rad}}$ ⟲, leading to: 
+Again, $\text{B}$ Shouldn't move vertically, so this structure has to be rotated back with $\theta = \cfrac{2.4{B_{\text{h}}}}{{12000}} = 0.0002{B_{\text{h}}}{\text{ rad}}$ ⟲, leading to: 
 
 | joint | Displacement due to $\theta$ in horizontal direction → $\left( \text{mm}\right)$| Displacement due to $\theta$ in vertical direction ↓ $\left( \text{mm}\right)$|
 | :-:|:-:|:-:|
@@ -244,7 +244,7 @@ Resulting in total displacements of:
 | :-:|:-:|:-:|
 |$\text{A}$|$0$|$0$|
 |$\text{C}$|$-1.6B_\text{h}$|$-1.2B_\text{h}$|
-|$\text{D}$|$-1.6{B_{\rm{h}}}$|$-1.2B_\text{h}$|
+|$\text{D}$|$-1.6{B_{\text{h}}}$|$-1.2B_\text{h}$|
 |$\text{E}$|$-1.6B_\text{h}$|$-1.2B_\text{h}$|
 |$\text{B}$|$-3.2B_\text{h}$|$0$|
 
@@ -258,7 +258,7 @@ Displaced structure
 
 Now, we can fill in the compatibility conditions:
 
-$${u_{{\rm{B,h}}}} = 0 \to 0.024 - 0.0032{B_{\rm{h}}} = 0 \to {B_{\text{h}}} =  7.5{\text{ kN}}$$
+$${u_{{\text{B,h}}}} = 0 \to 0.024 - 0.0032{B_{\text{h}}} = 0 \to {B_{\text{h}}} =  7.5{\text{ kN}}$$
 
 ### Section forces statically indeterminate structure
 
