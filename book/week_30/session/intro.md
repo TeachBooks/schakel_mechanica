@@ -5,7 +5,7 @@
 ```{index} Buckling; Exam assignment
 ```
 
-(exam3)=
+(exam4)=
 # Exam Monday April 14th
 
 Today you'll make the third exam assignment covering Statically indeterminate structures including its prerequisites and/or the third exam assignment covering Continuum mehcanics including its prerequisites and/or the second exam assignment covering Buckling including its prerequisites. For more information about the exam see [the assessment information in course information](exam-general)

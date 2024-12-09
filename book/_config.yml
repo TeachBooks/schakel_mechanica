@@ -93,7 +93,7 @@ parse:
     week8: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |||[Read theory and make homework exercises Stiffness discontinuities and support settlement](homework8.2) <br>{bdg-primary}`New content`||[Read theory and make homework exercises temperature influences](homework8.3) <br>{bdg-primary}`New content`|[Prepare for exam assignment Statically indeterminate structures](homework10) <br>{bdg-primary}`New content` <br> {bdg-secondary}`Prerequisites`|
+      |Homework deadlines |||[Read theory and make homework exercises Stiffness discontinuities and support settlement](homework8.2) <br>{bdg-primary}`New content`||[Read theory and make homework exercises temperature influences](homework8.3) <br>{bdg-primary}`New content`|Friday week 10: [Prepare for exam assignment Statically indeterminate structures](homework10) <br>{bdg-primary}`New content` <br> {bdg-secondary}`Prerequisites`|
       |Class activities|||[Guided practice on Stiffness discontinuities and support settlement](lesson8.2) <br>{bdg-primary-line}`New content`||[Guided practice on temperature influences](lesson8.3) <br>{bdg-primary-line}`New content`|
     week10: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
@@ -138,12 +138,12 @@ parse:
     week18: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |||||[End-of-week homework Flexural buckling, Eulerian approach](homework18) <br>{bdg-primary}`New content`|[Review exam assignment 2 continuum mechanics and exam assignment buckling](lesson20)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|
+      |Homework deadlines |||||[End-of-week homework Flexural buckling, Eulerian approach](homework18) <br>{bdg-primary}`New content`|Friday week 20: [Review exam assignment 2 continuum mechanics and exam assignment buckling](homework20)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|
       |Class activities|[Lecture slides part 1: Flexural buckling, Eulerian approach](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture3-stability.pdf) <br>{bdg-primary-line}`New content`|[Lecture slides part 1: Flexural buckling, Eulerian approach](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture3-stability.pdf) <br>{bdg-primary-line}`New content`||[Lecture slides part 1: Flexural buckling, Eulerian approach](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture3-stability.pdf) <br>{bdg-primary-line}`New content`|
     week20: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |||||[Prepare for exam assignments continuum mechanics and buckling](homework20) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`|
+      |Homework deadlines |||||[Prepare for exam assignments continuum mechanics and buckling](homework20) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`|Monday week 30: [Prepare for exam assignments statically indeterminate structure, continuum mechanics and buckling](homework30) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`
       |Class activities|||||[Exam assignment 2 continuum mechanics and 1 buckling](exam3) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|
     week30: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|

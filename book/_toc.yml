@@ -334,6 +334,14 @@ parts:
       title: Summary of formulas flexural buckling in English
     - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/Samenvatting%20buigzame%20staven.pdf
       title: Summary of formulas flexural buckling in Dutch
+  - file: week_20/intro
+    sections:
+    - file: week_20/homework/intro
+    - file: week_20/session/intro
+  - file: week_30/intro
+    sections:
+    - file: week_30/homework/intro
+    - file: week_30/session/intro
 
 - caption: Miscellaneous
   chapters:
