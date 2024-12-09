@@ -322,8 +322,7 @@ parts:
       title: Note on Equivalent rotational stiffness in English
     - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/Vervangende_rotatieveerstijfheid.pdf
       title: Note on Equivalent rotational stiffness in Dutch
-    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/python-buckling-Euler4.html
-      title: Python script to find buckling load, basic type 4
+    - file: week_18/homework/example
     - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/python-buckling-Euler5.html
       title: Python script to find buckling load, basic type 5
     - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/python-knik_kolom-met-EI1-EI2.html
