@@ -1,5 +1,5 @@
 ## Assignment on buckling
-As a preparation for the second assignment on Buckling you can repeat all the topics of Buckling, including the prerequisites. This content can be viewed at:
+As a preparation for the exam assignment on Buckling you can repeat all the topics of Buckling, including the prerequisites. This content can be viewed at:
 - All content from Week 16 Monday to Week 18 Friday in this book and:
   - Week 2 (September 9th)
     - Homework deadline lesson Wednesday September 11th except for

@@ -1,5 +1,5 @@
 ## Assignment on continuum mechanics
-As a preparation for the second assignment on Continuum mechanics you can repeat all the topics of Continuum Mechanics, including the prerequisites. This content can be viewed at:
+As a preparation for the exam assignment on Continuum mechanics you can repeat all the topics of Continuum Mechanics, including the prerequisites. This content can be viewed at:
 - All content from Week 11 Monday to Week 14 Friday in this book and:
   - Week 4 (September 23th)
     - Homework deadline lesson Monday September 23th except for `Solve displacements truss structures`
