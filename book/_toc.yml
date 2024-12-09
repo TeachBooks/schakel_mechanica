@@ -306,6 +306,16 @@ parts:
     - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture1-stability.pdf
       title: Lecture slides Intro and systems with 1 dof
     - file: week_16/homework/intro
+  - file: week_17/intro
+    sections:
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture2-stability.pdf
+      title: Lecture slides Systems with 1 and infinite number dofs
+    - file: week_16/homework/intro
+  - file: week_18/intro
+    sections:
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture1-stability.pdf
+      title: Lecture slides Flexural buckling, Eulerian approach
+    - file: week_16/homework/intro
 
 - caption: Miscellaneous
   chapters:

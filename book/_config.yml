@@ -99,12 +99,12 @@ parse:
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
       |Homework deadlines |||||[Prepare for exam assignment Statically indeterminate structures](homework10) <br>{bdg-primary}`New content` <br> {bdg-secondary}`Prerequisites`|Friday: [Read theory and make homework exercise cross-sectional properties](homework11.3) <br>{bdg-secondary}`Prerequisites`|
-      |Class activities|||||[Exam assignment statically indeterminate structures](exam1) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|
+      |Class activities|||||[Exam assignment 1 statically indeterminate structures](exam1) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|
     week11: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
       |Homework deadlines |||||[Read theory and make homework exercise cross-sectional properties](homework11.3) <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercise normal stresses](homework12.1) <br>{bdg-secondary}`Prerequisites`|
-      |Class activities|[Review exam assignment statically indeterminate structures](lesson11.1)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites` <br> [Demonstration transforming stress- and strain tensors](lesson11.1) <br>{bdg-primary-line}`New content` |||Cancelled due to [protest against cuts in higher education](https://intranet.tudelft.nl/-/protestactie-op-14-november-tegen-bezuinigingen-hoger-onderwijs)|[Guided practice on cross-sectional properties](lesson11.3) <br> {bdg-secondary-line}`Prerequisites`|
+      |Class activities|[Review exam assignment 1 statically indeterminate structures](lesson11.1)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites` <br> [Demonstration transforming stress- and strain tensors](lesson11.1) <br>{bdg-primary-line}`New content` |||Cancelled due to [protest against cuts in higher education](https://intranet.tudelft.nl/-/protestactie-op-14-november-tegen-bezuinigingen-hoger-onderwijs)|[Guided practice on cross-sectional properties](lesson11.3) <br> {bdg-secondary-line}`Prerequisites`|
     week12: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
@@ -118,18 +118,35 @@ parse:
     week14: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |[Read theory and make homework exercise shear stresses in torsional elements](homework14.1) <br>{bdg-secondary}`Prerequisites`|[Read theory and make homework exercise shear force centre](homework14.2) <br>{bdg-secondary}`Prerequisites`|||[Read theory and make homework exercise failure criteria](homework14.3) <br>{bdg-primary}`New content`|Wednesday: [Prepare for exam statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`|
+      |Homework deadlines |[Read theory and make homework exercise shear stresses in torsional elements](homework14.1) <br>{bdg-secondary}`Prerequisites`|[Read theory and make homework exercise shear force centre](homework14.2) <br>{bdg-secondary}`Prerequisites`|||[Read theory and make homework exercise failure citeria](homework14.3) <br>{bdg-primary}`New content`|Wednesday: [Prepare for exam assignments statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`|
       |Class activities|[Guided practice on shear stresses in torsional elements](lesson14.1)<br>{bdg-secondary-line}`Prerequisites`|[Guided practice on shear force centre](lesson14.2) <br>{bdg-secondary-line}`Prerequisites`|||[Guided practice on failure criteria](lesson14.3) <br> {bdg-primary-line}`New content`|
     week15: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines ||[Prepare for exam statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`||||[End-of-week homework Systems with 1 dof](homework16) <br>{bdg-primary}`New content`|
-      |Class activities||[Exam statically indeterminate structure and continuum mechanics](exam2) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`||[Review exam assignment 2 statically indeterminate structures and assignment 1 continuum mechanics](lesson15.2)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`||
+      |Homework deadlines ||[Prepare for exam assignments statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`||||[End-of-week homework Systems with 1 dof](homework16) <br>{bdg-primary}`New content`|
+      |Class activities||[Exam assignment 2 statically indeterminate structure and 1 continuum mechanics](exam2) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`||[Review exam assignment 2 statically indeterminate structures and assignment 1 continuum mechanics](lesson15.2)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`||
     week16: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |||||[End-of-week homework Systems with 1 dof](homework16) <br>{bdg-primary}`New content`||
+      |Homework deadlines |||||[End-of-week homework Systems with 1 dof](homework16) <br>{bdg-primary}`New content`|[End-of-week homework Systems with 1 and infinite number dofs](homework17) <br>{bdg-primary}`New content`|
       |Class activities|[Lecture slides part 1: Systems with 1 dof](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture1-stability.pdf) <br>{bdg-primary-line}`New content`|[Lecture slides part 1: Rigid buckling with one degree of freedom](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture1-stability.pdf)<br>{bdg-primary-line}`New content`||[Lecture slides part 1: Rigid buckling with one degree of freedom](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture1-stability.pdf)<br>{bdg-primary-line}`New content`|
-    week17: "To be provided"
-    week18: "To be provided"
-    week20: "To be provided"
+    week17: |
+      ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
+      |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
+      |Homework deadlines |||||[End-of-week homework Systems with 1 and infinite number dofs](homework17) <br>{bdg-primary}`New content`|[End-of-week homework Systems with 1 and infinite number dofs](homework18) <br>{bdg-primary}`New content`|
+      |Class activities|[Lecture slides part 1: Systems with 1 and infinite number dofs](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture2-stability.pdf) <br>{bdg-primary-line}`New content`|[Lecture slides part 1: Systems with 1 and infinite number dofs](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture2-stability.pdf) <br>{bdg-primary-line}`New content`||[Lecture slides part 1: Systems with 1 and infinite number dofs](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture2-stability.pdf) <br>{bdg-primary-line}`New content`|
+    week18: |
+      ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
+      |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
+      |Homework deadlines |||||[End-of-week homework Flexural buckling, Eulerian approach](homework18) <br>{bdg-primary}`New content`|[Review exam assignment 2 continuum mechanics and exam assignment buckling](lesson20)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|
+      |Class activities|[Lecture slides part 1: Flexural buckling, Eulerian approach](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture3-stability.pdf) <br>{bdg-primary-line}`New content`|[Lecture slides part 1: Flexural buckling, Eulerian approach](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture3-stability.pdf) <br>{bdg-primary-line}`New content`||[Lecture slides part 1: Flexural buckling, Eulerian approach](https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture3-stability.pdf) <br>{bdg-primary-line}`New content`|
+    week20: |
+      ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
+      |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
+      |Homework deadlines |||||[Prepare for exam assignments continuum mechanics and buckling](homework20) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`|
+      |Class activities|||||[Exam assignment 2 continuum mechanics and 1 buckling](exam3) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|
+    week30: |
+      ||Monday|Tuesday|Wednesday|Thursday|Friday|
+      |:-:|:-:|:-:|:-:|:--:|:-:|
+      |Homework deadlines |[Prepare for exam assignments statically indeterminate structure, continuum mechanics and buckling](homework30) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`|
+      |Class activities|[Exam assignment 3 statically indeterminate structures, 3 continuum mechanics and 2 buckling](exam4) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|
