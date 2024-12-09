@@ -3,7 +3,7 @@
 This TeachBook combines the course schedule and content. The content is shown independently as well in the [Mechanics-BSc TeachBook](https://teachbooks.github.io/mechanics-BSc).
 
 ## Linked literature and tools
-This TeachBook links to relevant part of the other literature and only provides additional content when the other literature.
+This TeachBook links to relevant part of the other literature and only provides additional content when the other literature is insufficient.
 - [Brightspace course page](https://brightspace.tudelft.nl/d2l/home/703722): this Brightspace page is only used for announcements.
 - Engineering Mechanics: Volume 1: Equilibrium, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2006`.
   - eBook available for free via TU Delft at [<img height="20px" src="./figures/springer-logo.svg" alt="Springer">](https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9).
