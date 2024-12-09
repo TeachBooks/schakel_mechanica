@@ -37,7 +37,9 @@ sphinx:
     bibtex_default_style: myapastyle
     bibtex_reference_style: author_year_round
     mathjax3_config:
-      chtml: {mtextInheritFont: true} # To typeset text within math prettier
+      chtml: {
+        mtextInheritFont: true # To typeset text within math prettier
+      }
   local_extensions:
     apastyle: _ext/
     bracket_citation_style: _ext/
