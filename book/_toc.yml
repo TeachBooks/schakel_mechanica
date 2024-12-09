@@ -301,6 +301,11 @@ parts:
     - file: week_15/homework/intro
     - file: week_15/session/intro
     - file: week_15/session_2/intro
+  - file: week_16/intro
+    sections:
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture1-stability.pdf
+      title: Lecture slides Intro and systems with 1 dof
+    - file: week_16/homework/intro
 
 - caption: Miscellaneous
   chapters:
