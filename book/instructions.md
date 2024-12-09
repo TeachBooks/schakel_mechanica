@@ -1,6 +1,8 @@
 # How to use this TeachBook 📘
 
-This TeachBook combines the course schedule and content. The content is shown independently as well in the [Mechanics-BSc TeachBook](https://teachbooks.github.io/mechanics-BSc).
+This TeachBook combines the course schedule and content. The content is shown independently as well in the [Mechanics-BSc TeachBook](https://teachbooks.github.io/mechanics-BSc). Specific version of this book are available on:
+- Version only containing content for exam assignment 1: https://teachbooks.io/mechanics-BSc/2024-assignment1
+- Version only containing content for exam assignment 2: https://teachbooks.io/mechanics-BSc/2024-assignment2
 
 ## Linked literature and tools
 This TeachBook links to relevant part of the other literature and only provides additional content when the other literature.
