@@ -73,3 +73,7 @@ Click the dropdown blocks below to find a detailed schedule for the course activ
 ```{dropdown} Week 20 (January 13th)
 {{week20}}
 ```
+
+```{dropdown} Week 30 (April 14th)
+{{week30}}
+```
