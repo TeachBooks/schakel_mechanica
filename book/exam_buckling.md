@@ -1,7 +1,33 @@
 ## Assignment on buckling
 As a preparation for the second assignment on Buckling you can repeat all the topics of Buckling, including the prerequisites. This content can be viewed at:
 - All content from Week 16 Monday to Week 18 Friday in this book and:
-  - ...
+  - Week 2 (September 9th)
+    - Homework deadline lesson Wednesday September 11th except for
+      - `Solve equilibrium; of a 3D-particle; 3D-body; body in torsion`
+      - `Solve support reactions for statically determinate structures`
+      - `Solve section forces truss structure`
+      - `Solve section forces frame structures`
+    - Homework deadline lesson Friday September 13th except for `Solve section forces and shape cable; ... using equilibrium in a specific cross-section`
+  - Week 3 (September 16th)
+    - Homework deadline lesson Monday September 16th
+  - Week 4 (September 23th)
+    - Homework deadline lesson Monday September 23th
+  - Week 5 (September 30th)
+    - Homework deadline lesson Friday October 4th
 - The following chapters of the full [Mechanics-BSc book](https://teachbooks.github.io/mechanics-BSc):
-    - Statics: ... as a prerequisite
-    - Stresses and displacements: ... as a prerequisite.
+    - Statics:  all topics as a prerequisite, except for:
+      - `Virtual work`
+      - `Solve equilibrium; of a 3D-particle; 3D-body; body in torsion`
+      - `Solve support reactions for statically determinate structures`
+      - `Solve section forces truss structure`
+      - `Solve section forces frame structures; ... using equilibrium in a specific cross-section; diagrams`
+      - `Solve section forces and shape cable; ... using equilibrium in a specific cross-section`.
+    - Stresses and displacements: all topics as a prerequisite, except for:
+      - `Cross-sectional properties`
+      - `Solve stresses in an extension element`
+      - `Solve stresses in a bending element`
+      - `Solve stresses in a torsional element`
+      - `Solve displacements truss structures; ... using Williot`
+      - `Solve displacements circular and thin-walled tubes for structures in torsion`
+      - `Solve displacements statically determinate structures subjected to temperature influences`
+    - Buckling
