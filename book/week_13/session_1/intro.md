@@ -1,20 +1,17 @@
-# ---
-# jupyter:
-#   jupytext:
-#     cell_markers: '"""'
-#     text_representation:
-#       extension: .py
-#       format_name: percent
-#       format_version: '1.3'
-#       jupytext_version: 1.16.1
-#   kernelspec:
-#     display_name: base
-#     language: python
-#     name: python3
-# ---
+---
+jupytext:
+  cell_markers: '"""'
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.16.1
+kernelspec:
+  display_name: base
+  language: python
+  name: python3
+---
 
-# %% [markdown]
-r"""
 ```{index} Transformations; Class exercise using analytical formulas
 ```
 
@@ -85,9 +82,10 @@ Normal force centre is given by:
 ````
 
 Test of adding more text
-"""
 
-# %% tags=["remove-cell"]
+```{code-cell}
+:tags: [remove-cell]
+
 Izz = 655e6
 
 tau_G = -3e3 * -250*10*286 / 20 / Izz
@@ -119,3 +117,4 @@ tau_C = -tau_C
 sigma_C_1 = 1/2 * (sigma_C + 0) + ((1/2 * (sigma_C))**2 + tau_C**2)**0.5
 sigma_C_2 = 1/2 * (sigma_C + 0) - ((1/2 * (sigma_C))**2 + tau_C**2)**0.5
 print(sigma_C_1, sigma_C_2)
+```
