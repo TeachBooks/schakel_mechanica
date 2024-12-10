@@ -2,8 +2,8 @@
 jupytext:
   cell_markers: '"""'
   text_representation:
-    extension: .md,py
-    format_name: myst,percent
+    extension: .md
+    format_name: myst
     format_version: 0.13
     jupytext_version: 1.16.1
 kernelspec:
