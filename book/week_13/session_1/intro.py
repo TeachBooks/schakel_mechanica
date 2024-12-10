@@ -2,6 +2,7 @@
 # jupyter:
 #   jupytext:
 #     cell_markers: '"""'
+#     formats: ipynb,py:percent
 #     text_representation:
 #       extension: .py
 #       format_name: percent
@@ -16,6 +17,10 @@
 # %% [markdown]
 r"""
 ```{index} Transformations; Class exercise using analytical formulas
+```
+
+```{custom_download_link} intro.ipynb
+:text: ".ipynb"
 ```
 
 (lesson13.1)=
