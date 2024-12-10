@@ -230,7 +230,7 @@ parts:
       - file: external/mechanics-BSc/book/continuum/transformations/intro
         sections:
         - file: external/mechanics-BSc/book/continuum/transformations/analytical
-    - file: week_13/session_1/intro.py
+    - file: week_13/session_1/intro.md
     - file: week_13/homework_2/intro
       sections:
       - file: week_13/homework_2/copy
