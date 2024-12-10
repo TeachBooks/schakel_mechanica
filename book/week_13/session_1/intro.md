@@ -16,7 +16,7 @@ kernelspec:
 ```
 
 ```{custom_download_link} intro.py
-:text: ".py"
+:text: ".py:percent"
 ```
 
 (lesson13.1)=
