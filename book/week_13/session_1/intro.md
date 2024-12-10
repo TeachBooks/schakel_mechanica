@@ -15,6 +15,10 @@ kernelspec:
 ```{index} Transformations; Class exercise using analytical formulas
 ```
 
+```{custom_download_link} intro.py
+:text: ".py"
+```
+
 (lesson13.1)=
 # Lesson November 25th
 
