@@ -10,7 +10,6 @@ only_build_toc_files: true
 
 
 html:
-  favicon : "figures/favicon.ico"
   baseurl :  "https://teachbooks.github.io/bridging_mechanics/"
 
 sphinx:
