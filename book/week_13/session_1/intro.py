@@ -18,14 +18,6 @@ r"""
 ```{index} Transformations; Class exercise using analytical formulas
 ```
 
-```{custom_download_link} intro.ipynb
-:text: ".ipynb"
-```
-
-```{custom_download_link} intro.md
-:text: ".md"
-```
-
 (lesson13.1)=
 # Lesson November 25th
 
