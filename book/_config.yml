@@ -10,7 +10,6 @@ only_build_toc_files: true
 
 
 html:
-  favicon : "figures/favicon.ico"
   baseurl :  "https://teachbooks.github.io/bridging_mechanics/"
 
 sphinx:
@@ -22,7 +21,7 @@ sphinx:
       exclude_patterns: ["**/**"]
     html_theme_options:
       logo: {
-        text: CT1000 Structural Mechanics 2024/2025
+        text: CT1000S Structural Mechanics 2024/2025
       }
       repository_url: "https://github.com/TeachBooks/bridging_mechanics"
       path_to_docs: "book"
