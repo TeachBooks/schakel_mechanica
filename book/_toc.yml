@@ -301,6 +301,11 @@ parts:
     - file: week_15/homework/intro
     - file: week_15/session/intro
     - file: week_15/session_2/intro
+      sections:
+      - file: week_15/session_2/michael
+      - file: week_15/session_2/patrick
+      - file: week_15/session_2/louis
+      - file: week_15/session_2/quinten
 
 - caption: Miscellaneous
   chapters:
