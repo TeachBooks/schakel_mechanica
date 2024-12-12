@@ -11,8 +11,8 @@ This aligns with the learning objectives of Structural Mechanics 3 of the regula
 As a prerequisite for the main objectives, you should be able to model, evaluate and reflect on forces, displacements and stresses in statically determinate structures. This is made specific in the following prerequisite learning objectives, you show to be able to:
 
 <ol type="a">
-  <li>Model, evaluate and reflect on validity of shape (only for cables), support reactions and section forces in statically determinate skeletal structures and cables using equilibrium relations and virtual work (only on beam structures), required for learning objective 2 and 2. </li>
-  <li>Model, evaluate and reflect on validity of displacements of truss- and skeletal bending structures using Williot, forget-me-nots and Moment-area theorems, required for learning objective 2 and 4</li>
+  <li>Model, evaluate and reflect on validity of shape (only for cables), support reactions and section forces in statically determinate skeletal structures and cables using equilibrium relations and virtual work (only on beam structures), required for learning objective 1, 2 and 3. </li>
+  <li>Model, evaluate and reflect on validity of displacements of truss- and skeletal bending structures using Williot and forget-me-nots, required for learning objective 1, 2 and 4</li>
   <li>Model, evaluate and reflect on validity of normal- and shear stresses in thick- and thin-walled cross-sections due to normal forces, bending moments and torsional moments, required for learning objective 3</li>
 </ol>
 
