@@ -19,8 +19,8 @@ As a prerequisite for the main objectives, you should be able to model, evaluate
 The learning objectives a-c align almost entirely with the learning objectives of Structural Mechanics 1 and 2 of the regular BSc programme of Civil Engineering.
 The learning objectives are summarized in three subjects:
 - Statically indeterminate structures, including learning objective 1, 2, a and b
-- Continuum mechanics, including learning objective 4, a and c
-- Buckling, including learning objective 1, 3 and b
+- Continuum mechanics, including learning objective 4, a, b and c
+- Buckling, including learning objective 1, 4, a, b
 
 This course replaces Structural Mechanics 1, 2 and 3 of the regular Bachelor programme as a preparation for the MSc Civil Engineering. It is expecting some prior knowledge on learning objective a – c to be able to finish the course on time.
 
