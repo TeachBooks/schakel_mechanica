@@ -307,6 +307,17 @@ parts:
       - file: week_15/session_2/louis
       - file: week_15/session_2/quinten
       - file: week_15/session_2/thijs
+      - file: week_15/session_2/julian
+      - file: week_15/session_2/eren
+      - file: week_15/session_2/dino
+      - file: week_15/session_2/ties
+      - file: week_15/session_2/danyal
+      - file: week_15/session_2/amir
+      - file: week_15/session_2/mees
+      - file: week_15/session_2/maarten
+      - file: week_15/session_2/robert
+      - file: week_15/session_2/chayenne
+      - file: week_15/session_2/mats
 
 - caption: Miscellaneous
   chapters:
