@@ -306,6 +306,7 @@ parts:
       - file: week_15/session_2/patrick
       - file: week_15/session_2/louis
       - file: week_15/session_2/quinten
+      - file: week_15/session_2/thijs
 
 - caption: Miscellaneous
   chapters:
