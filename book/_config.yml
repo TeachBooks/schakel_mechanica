@@ -29,7 +29,7 @@ sphinx:
       use_repository_button: true
       use_edit_page_button: true
       use_issues_button : true
-      announcement : "This books has been moved to: <a href='https://oit.tudelft.nl/CT1000/2024' style='color:white'>https://oit.tudelft.nl/CT1000/2024</a>."
+      announcement : "This book has been moved to: <a href='https://oit.tudelft.nl/CT1000/2024' style='color:white'>https://oit.tudelft.nl/CT1000/2024</a>."
       launch_buttons:
         thebe: true
     html_show_copyright: false
